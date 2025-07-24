@@ -5,6 +5,6 @@ This BlockList is made to attempt to block Adverts, Trackers, Phishing, Malware 
 
 **Last Updated:** 24 July 2025
 
-**Link:** 
+**Link:** https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/0liboteAOBlockList.txt
 
 This has BlockList has strictly been tested with PI-Hole so there is no guarantee it wil work perfectly with other software such as AdGuard.
