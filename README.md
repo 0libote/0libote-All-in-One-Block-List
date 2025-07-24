@@ -1,5 +1,5 @@
 # 0libote All in One Block List!
-This BlockList is made to attempt to block Adverts, Trackers, Phishing, Malware and more while trying to have as little false positives as possible. Unfortunatly as with every large BlockList there is bound to be a handfull of false positives so please if you find any flag them so they can be fixed ASAP.
+This BlockList is made to attempt to block Adverts, Trackers, Phishing, Malware and more while trying to have as few false positives as possible. Unfortunately, as with every large BlockList there is bound to be a handful of false positives, if you find any please flag them so they can be fixed ASAP.
 
 **Total Blocked Domains:** Aprox 791,179
 
