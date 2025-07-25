@@ -36,7 +36,7 @@ A **DNS sinkhole** intercepts DNS queries for unwanted or malicious domains and 
 3. Paste this blocklist URL in the **Address** field:
 
    ```
-   https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/0liboteAOBlockList.txt
+   https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/Blocklist.txt
    ```
 
 4. Click **Add**.
@@ -50,7 +50,7 @@ Your Pi-hole will now start filtering domains using this blocklist.
 
 ### 🔍 Option 1: Using a Web Browser
 
-1. Open the [Blocklist File](https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/0liboteAOBlockList.txt)
+1. Open the [Blocklist File](https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/Blocklist.txt)
 2. Press `CTRL+F` (or `CMD+F` on Mac) to search for a domain like `example.com`
 
 If it appears in the list, it’s being blocked.
