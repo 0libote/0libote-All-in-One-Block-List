@@ -7,8 +7,8 @@ A powerful, blocklist designed for **Pi-hole** and other DNS Sinkhole users who 
 ## 📦 About This Blocklist
 
 - **List Name:** 0libote All-in-One Blocklist
-- **Total Domains Blocked:** ~806,000
-- **Last Updated:** 25 July 2025
+- **Total Domains Blocked:** ~808,000
+- **Last Updated:** 26 July 2025
 
 ---
 
@@ -62,10 +62,10 @@ If it appears in the list, it’s being blocked.
 To check if a domain is being blocked by **any** list in your Pi-hole:
 
 ```bash
-pihole -q yourdomain.com
+pihole -q domain.com
 ```
 
-Replace `yourdomain.com` with the domain you're checking.  
+Replace `domain.com` with the domain you're checking.  
 This will show which blocklist (if any) is blocking the domain.
 
 ---
@@ -83,8 +83,6 @@ It could be a **false positive** (a good domain mistakenly blocked).
    - The **domain name**
    - A short explanation 
 
-The maintainers will review and possibly remove it from the list.
-
 ---
 
 ## 🔄 Updating the Blocklist
@@ -99,10 +97,8 @@ The maintainers will review and possibly remove it from the list.
 
 ### Useful Tools
 
-- **[Pi-hole Web Interface](http://pi.hole/admin)** – Monitor and manage queries
-- **[dnsleaktest.com](https://dnsleaktest.com/)** – Confirm DNS is routing through Pi-hole
-- **[Blocky](https://github.com/0xERR0R/blocky)** – An alternative DNS-based filtering tool
-- **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** – Great GUI alternative to Pi-hole
+- **[Pi-hole Documentation](https://docs.pi-hole.net)** – Details about Pi-hole
+- **[dnsleaktest.com](https://dnsleaktest.com/)** – Confirm DNS is routing through DNS Sinkhole
 
 ---
 
@@ -121,7 +117,7 @@ Ways to help:
 
 - ⭐ Star the repo to support the project
 - 🐞 [Report issues](https://github.com/0libote/0libote-All-in-One-Block-List/issues)
-- ✅ Submit pull requests to improve the list
+- ✅ Submit issues to help improve the list
 
 ---
 
