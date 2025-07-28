@@ -1,7 +1,7 @@
 # 0libote All in One Blocklist (Tracker only)
 # Website: https://github.com/0libote/0libote-All-in-One-Block-List
-# Total domains: 33583
-# Last update: 26 July 2025
+# Total domains: 33593
+# Last update: 28 July 2025
 #
 a.ad.gt
 a.adforcast.com
@@ -266,7 +266,6 @@ activeconversion.com
 activity.serving-sys.com
 actscattydecode.com
 actualdeals.com
-actuallyhierarchyjudgement.com
 actuallysheep.com
 actuallysnake.com
 acuityads.com
@@ -3800,6 +3799,7 @@ atr.im-apps.net
 atrack.avplayer.com
 atrack-a.anthill.vn
 atrk.alexametrics.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 ats.everesttech.net
 ats.rlcdn.com
@@ -10581,6 +10581,7 @@ justwebads.com
 jvmhtxiqdfr.xyz
 jwpevent.1rx.io
 jwpltx.com
+jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
 k.et.nytimes.com
@@ -24280,6 +24281,8 @@ oas.repubblica.it
 oas.roanoke.com
 oas.toronto.com
 oas.uniontrib.com
+oavowuftili.com
+oaxntxan.com
 ob.cheqzone.com
 oba.media.net
 obdshyohcog.com
@@ -24630,7 +24633,6 @@ os-mon.zijieapi.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-ostlon.com
 ota.cartrawler.com
 ota.lokalise.co
 oth.eve.mdt.qq.com
@@ -26062,6 +26064,7 @@ pvclouds.com
 pvmax.net
 pvmax.tenmax.io
 pvnocbyq.com
+pvrladcyxnico.com
 pv-tm.everesttech.net
 pw.wpu.sh
 pwieu.com
@@ -27986,7 +27989,6 @@ smetrics.agillink.com
 smetrics.aia.com
 smetrics.aida.de
 smetrics.aircanada.com
-smetrics.ajinomoto.co.jp
 smetrics.alka.dk
 smetrics.allegion.com
 smetrics.allenedmonds.com
@@ -28648,6 +28650,12 @@ smoke.gaug.es
 smopy.com
 smowtion.com
 smp.specificmedia.com
+smptdrf.link
+smptrffc.click
+smptrffc.fyi
+smptrffc.link
+smptrffc.xyz
+smptrfvk.link
 smpush.com
 smrk.io
 smrtb.com
@@ -30185,6 +30193,7 @@ theadhost.com
 thebrighttag.com
 thebugs.ws
 thedevband.com
+theedreemteedro.com
 theekedgleamed.com
 theeptoah.com
 theetheks.com
@@ -33151,6 +33160,7 @@ yasni.adtrackers.net
 yasni.bannertrack.net
 yatkaddvhk.com
 yawnspuker.com
+yb26b.com
 ybrantdigital.com
 ybs2ffs7v.com
 ybsitecenter.com
