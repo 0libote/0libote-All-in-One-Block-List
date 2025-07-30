@@ -1,7 +1,7 @@
 # 0libote All in One Blocklist (Tracker only)
 # Website: https://github.com/0libote/0libote-All-in-One-Block-List
 # Total domains: 33593
-# Last update: 28 July 2025
+# Last update: 30 July 2025
 #
 a.ad.gt
 a.adforcast.com

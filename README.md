@@ -7,7 +7,7 @@ A powerful, blocklist designed for **Pi-hole** and other DNS Sinkhole users who 
 ## 📦 About This Blocklist
 
 - **List Name:** 0libote All-in-One Blocklist
-- **Total Domains Blocked:** ~1,757,000
+- **Total Domains Blocked:** ~1,749,000
 - **Last Updated:** 28 July 2025
 
 ---
