@@ -1,174 +1,165 @@
 # 🛡️ 0libote All-in-One Blocklist
 
-  
-
-[![Stars](https://img.shields.io/github/stars/0libote/0libote-All-in-One-Block-List?style=flat-square&logo=github&color=blue)](https://github.com/0libote/0libote-All-in-One-Block-List/stargazers)
-[![License](https://img.shields.io/github/license/0libote/0libote-All-in-One-Block-List?style=flat-square&color=blue)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/0libote/Pi-Hole-Blocklist?style=flat-square&logo=github&color=blue)](https://github.com/0libote/Pi-Hole-Blocklist/stargazers)
+[![License](https://img.shields.io/github/license/0libote/Pi-Hole-Blocklist?style=flat-square&color=blue)](LICENSE)
+![Domains Blocked](https://img.shields.io/badge/Domains~308,000-blue?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/last%20updated-01%20August%202025-blue?style=flat-square)
-  
----
-
-  
-
-A comprehensive DNS blocklist for **Pi-hole** and other DNS sinkhole tools. Blocks ads, trackers, telemetry, malware, phishing, and scam domains with a focus on high coverage and low false positives. Perfect for both beginners and more experienced users.
-
-  
 
 ---
 
-  
+A comprehensive, actively maintained DNS blocklist collection for **Pi-hole** and compatible DNS sinkholes. Blocks:
 
-## 📑 Table of Contents
+- Ads
+- Trackers
+- Telemetry
+- Malware
+- Phishing & scam domains
 
-  
-- [📦 Blocklist Overview](#-blocklist-overview)
-- [🧱 Included Lists](#-included-lists)
-- [📘 What Is a DNS Sinkhole?](#-what-is-a-dns-sinkhole)
-- [🔍 How to Check Blocked Domains](#-how-to-check-blocked-domains)
-- [⚠️ Troubleshooting & False Positives](#️-troubleshooting--false-positives)
-- [🔄 Updating the Blocklist](#-updating-the-blocklist)
-- [💡 Best Practices](#-best-practices)
-- [🙌 Contributing](#-contributing)
-- [📜 License](#-license)
+Designed for **high coverage with low false positives**. Ideal for home, office, and advanced users.
 
 ---
 
+## 📦 Blocklists
 
-## 📦 Blocklist Overview
+### 🔹 All-in-One Blocklist  
+Blocks ads, telemetry, trackers, malware, and more.
 
-## 0libote All-in-One Blocklist  
-- **Last Updated:** 1 August 2025  
-
-## All in one 
-**Info:** Intended to be a all in one blocklist. Blocking a bit of everything with minimal false positives.
-**Domains blocked:** ~307,000
-
-**Link:** 
-```
-https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Blocklist.txt
-```
-
-## Tracker only
-**Info:** A more strict list focusing only on blocking trackers. Higher chance of false positives as not maintained as much. 
-**Domains blocked:** ~33,000
-
-**Link:** 
-```
-https://github.com/0libote/Pi-Hole-Blocklist/blob/main/Tracker%20Only%20Blocklist.txt`
-```
-
-## Malware & Phishing only 
-**Info:** A large blocklist including many many domains affiliated with possible malware and phishing attempts. Also includes other malicious sites.
-**Domains blocked:** ~1,157,000
-
-**Link:** 
-```
-https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Malware%20%26%20Phishing%20Only%20Blocklist.txt
-```
+- **Domains:** ~308,000  
+- **Link:**  
+  ```
+  https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/All-in-One.txt
+  ```
 
 ---
 
-  
+### 🔹 Trackers Only (Strict)  
+Focused on tracking domains. May break services due to aggressive filtering.
 
-## 📘 What Is a DNS Sinkhole?
-
-
-A **DNS sinkhole** intercepts DNS queries to unwanted or malicious domains and blocks them before they reach your device.
-
-### ✅ Why Use One?
-
-- 🚫 Blocks ads and trackers network-wide
-- 🛡️ Stops access to malware and phishing servers
-- 🕵️ Blocks telemetry and data collection at the source
-- 👪 Protects **every device** on your network — phones, TVs, and more
-
-> ⚠️ **Note:** A DNS sinkhole is a powerful layer of protection, but not a full antivirus replacement. Always stay cautious online.
-	
+- **Domains:** ~33,000  
+- **Link:**  
+  ```
+  https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/Trackers-Only.txt
+  ```
 
 ---
 
+### 🔹 Malware & Phishing  
+Aggressively targets malicious domains.
 
-## 🔍 How to Check Blocked Domains 
+- **Domains:** ~1,158,000  
+- **Link:**  
+  ```
+  https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/Malware-Phishing.txt
+  ```
 
-### 🌐 Option 1: Search the File
+---
 
-- Open the [Blocklist File](https://raw.githubusercontent.com/0libote/0libote-All-in-One-Block-List/refs/heads/main/Blocklist.txt)
-- Press `CTRL+F` / `CMD+F` and search for a domain like `example.com` 
+## ⚙️ How to Add to Pi-hole
 
-### 💻 Option 2: Terminal Query  
+1. Go to **Pi-hole Admin Panel**
+2. Navigate to: `Group Management → Adlists`
+3. Paste the raw URL from the list above
+4. Click **Add**
+5. Go to `Tools → Update Gravity` to apply
 
+---
+
+## 🧱 What Is a DNS Sinkhole?
+
+A **DNS sinkhole** blocks connections to unwanted or harmful domains at the DNS level.
+
+### Benefits:
+- 🌍 Network-wide blocking for all devices
+- 🚫 Stops ads and trackers before they load
+- 🛡️ Helps block malware/phishing domains
+- 📵 Protects TVs, IoT, and mobile apps silently
+
+> ⚠️ DNS filtering is a great **first line of defense** but should not replace antivirus or browser-based security tools.
+
+---
+
+## 🧪 How to Check What's Blocked
+
+### Option 1: Web
+- Open the list file in your browser and search (`CTRL+F`) for a domain
+
+### Option 2: Terminal
 ```bash
-
-pihole -q domain.com
-
+pihole -q example.com
 ```
-
-Replace `domain.com` with the address you want to check. It will show if and where it's blocked.
+Shows whether the domain is blocked and by which list.
 
 ---
 
-## ⚠️ Troubleshooting & False Positives
+## 🚫 Troubleshooting
 
-### A Site or App Doesn't Work?
+### Is a Site or App Broken?
 
-This may be caused by a **false positive**.
+This could be a **false positive**.
 
-### How to Fix or Report:
-
-1. Confirm the domain is in the blocklist (see above)
-2. [Open an Issue](https://github.com/0libote/0libote-All-in-One-Block-List/issues)
-3. Provide:
-   - The domain
-   - Description of the problem (e.g. "banking app broken")
-
-We'll investigate and adjust accordingly.
+#### What to Do:
+1. Check if the domain is blocked (`pihole -q`)
+2. Temporarily whitelist via:
+   ```
+   pihole -w domain.com
+   ```
+3. Report it:
+   [Open an issue](https://github.com/0libote/Pi-Hole-Blocklist/issues)
 
 ---
 
 ## 🔄 Updating the Blocklist
 
-- ✅ The list is **updated frequently** to include new threats and remove false positives
-- 🔁 Manual update:
-  - Go to **Tools** → **Update Gravity** in the Pi-hole dashboard
+- Lists are updated regularly
+- To update manually:
+  - Go to Pi-hole → `Tools` → `Update Gravity`
+- Or use a cron job to automate:
+  ```bash
+  pihole -g
+  ```
 
 ---
 
 ## 💡 Best Practices
 
-- ✅ Stick with **a few high-quality lists** to reduce false positives
-- ❌ Avoid bloated "mega lists" unless necessary
-- 🔄 Update blocklists weekly or automate with cron
-- 🧪 Test services like banking, streaming, and email for blocking issues
-- 🧠 Don’t rely solely on DNS filtering — practice good security habits
+- ✅ Use **a few high-quality lists**
+- ❌ Avoid mega-lists unless necessary
+- 🔁 Update weekly
+- 🧪 Test common services (e.g., streaming, banking)
+- 👀 Review your logs for unexpected blocks
 
 ---
 
 ## 🙌 Contributing
 
-You can help improve this list:
+You can help by:
 
-- ⭐ Star the repository to show support  
-- 🐞 [Report issues or false positives](https://github.com/0libote/0libote-All-in-One-Block-List/issues)  
-- 📬 Suggest useful domains (or removals) via GitHub Issues or PRs  
-- 🔍 Help audit false positives
-
-**In progress**
-- More lists that are more specific (e.g NSFW/gambling Block)
-- More work on the README
-- More strict all in one list
-- Much more 😉
+- ⭐ Starring the repo
+- 🐛 Reporting false positives
+- 🔍 Suggesting domains to add/remove
 
 ---
 
-  
+## 🛠️ Upcoming Improvements
+
+- More specific blocklists (e.g., NSFW, Gambling)
+- Stricter all-in-one variant
+- Automation via GitHub Actions
+
+---
+
+## 📚 Helpful Resources
+
+- [Pi-hole Official Docs](https://docs.pi-hole.net/)
+- [Pi-hole Discourse (Community)](https://discourse.pi-hole.net/)
+- [Pi-hole GitHub](https://github.com/pi-hole/pi-hole)
+- [Firebog Recommended Lists](https://firebog.net/)
+- [avoidthehack - Blocklist Advice](https://avoidthehack.com/best-pihole-blocklists)
+
+---
 
 ## 📜 License
 
-Licensed under the [MIT License](LICENSE).  
-Free for personal, educational, and commercial use
-
----
-
-  
+MIT License — free for personal and commercial use.
 
 > — Made with ❤️ by [0libote](https://github.com/0libote)
