@@ -44,18 +44,27 @@ A comprehensive DNS blocklist for **Pi-hole** and other DNS sinkhole tools. Bloc
 ## All in one 
 **Info:** Intended to be a all in one blocklist. Blocking a bit of everything with minimal false positives.
 **Domains blocked:** ~307,000
-**Link:** `https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Blocklist.txt`
+**Link:** 
+```
+https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Blocklist.txt`
+```
 
 ## Tracker only
 **Info:** A more strict list focusing only on blocking trackers. Higher chance of false positives as not maintained as much. 
 **Domains blocked:** ~33,000
-**Link:** `https://github.com/0libote/Pi-Hole-Blocklist/blob/main/Tracker%20Only%20Blocklist.txt`
+**Link:** 
+```
+
+https://github.com/0libote/Pi-Hole-Blocklist/blob/main/Tracker%20Only%20Blocklist.txt`
+```
 
 ## Malware & Phishing only 
 **Info:** A large blocklist including many many domains affiliated with possible malware and phishing attempts. Also includes other malicious sites.
 **Domains blocked:** ~1,157,000
-**Link:** `https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Malware%20%26%20Phishing%20Only%20Blocklist.txt`
-
+**Link:** 
+```
+https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/refs/heads/main/Malware%20%26%20Phishing%20Only%20Blocklist.txt`
+```
 
 ---
 
