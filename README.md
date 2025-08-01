@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/0libote/0libote-All-in-One-Block-List?style=flat-square&logo=github&color=blue)](https://github.com/0libote/0libote-All-in-One-Block-List/stargazers)
 [![License](https://img.shields.io/github/license/0libote/0libote-All-in-One-Block-List?style=flat-square&color=blue)](LICENSE)
-![Last Updated](https://img.shields.io/badge/last%20updated-28%20July%202025-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/last%20updated-01%20August%202025-blue?style=flat-square)
   
 ---
 
