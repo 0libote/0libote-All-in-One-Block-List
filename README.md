@@ -2,8 +2,8 @@
 
 [![Stars](https://img.shields.io/github/stars/0libote/Pi-Hole-Blocklist?style=flat-square&logo=github&color=blue)](https://github.com/0libote/Pi-Hole-Blocklist/stargazers)
 [![License](https://img.shields.io/github/license/0libote/Pi-Hole-Blocklist?style=flat-square&color=blue)](LICENSE)
-![Domains Blocked](https://img.shields.io/badge/Domains~308,000-blue?style=flat-square)
-![Last Updated](https://img.shields.io/badge/last%20updated-01%20August%202025-blue?style=flat-square)
+![Domains Blocked](https://img.shields.io/badge/Domains~322,000-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/last%20updated-02%20August%202025-blue?style=flat-square)
 
 ---
 
@@ -24,7 +24,7 @@ Designed for **high coverage with low false positives**. Ideal for home, office,
 ### 🔹 All-in-One Blocklist  
 Blocks ads, telemetry, trackers, malware, and more.
 
-- **Domains:** ~308,000  
+- **Domains:** ~322,000  
 - **Link:**  
   ```
   https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/All-in-One.txt
@@ -46,7 +46,7 @@ Focused on tracking domains. May break services due to aggressive filtering.
 ### 🔹 Malware & Phishing  
 Aggressively targets malicious domains.
 
-- **Domains:** ~1,158,000  
+- **Domains:** ~1,736,000  
 - **Link:**  
   ```
   https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/Malware-Phishing.txt
