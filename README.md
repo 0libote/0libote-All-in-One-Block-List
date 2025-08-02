@@ -57,7 +57,7 @@ Aggressively targets malicious domains.
 ## ⚙️ How to Add to Pi-hole
 
 1. Go to **Pi-hole Admin Panel**
-2. Navigate to: `Group Management → Adlists`
+2. Navigate to: `Group Management → Lists`
 3. Paste the raw URL from the list above
 4. Click **Add**
 5. Go to `Tools → Update Gravity` to apply
