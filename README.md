@@ -35,7 +35,7 @@ Blocks ads, telemetry, trackers, malware, and more.
 ### 🔹 Trackers Only (Strict)  
 Focused on tracking domains. May break services due to aggressive filtering.
 
-- **Domains:** ~33,000  
+- **Domains:** ~76,000  
 - **Link:**  
   ```
   https://raw.githubusercontent.com/0libote/Pi-Hole-Blocklist/main/Trackers-Only.txt
