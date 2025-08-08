@@ -1,7 +1,7 @@
 # 0libote All in One Blocklist
 # Website: https://github.com/0libote/Pi-Hole-Blocklist
-# Last Updated: 2025-08-05 18:39:33 UTC
-# Total Domains: 76432
+# Last Updated: 2025-08-08 03:23:46 UTC
+# Total Domains: 76457
 
 ------0-01vpnedf0-0002d-admin-nocnocnoc-us-uforms.gbc.criteo.com
 ------0-01vpnedf0-0002d-admin-vpsw-us-us.gbc.criteo.com
@@ -6466,6 +6466,7 @@ a34938.actonservice.com
 a34989.actonservice.com
 a35052.actonsoftware.com
 a35181.actonsoftware.com
+a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a35226.actonsoftware.com
 a35228.actonsoftware.com
 a35229.actonsoftware.com
@@ -6758,6 +6759,7 @@ a5303.actonsoftware.com
 a5313.actonsoftware.com
 a5774.actonsoftware.com
 a5777001.actonsoftware.com
+a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 a6045.actonsoftware.com
 a6058.actonsoftware.com
 a6183.actonsoftware.com
@@ -6774,6 +6776,7 @@ a8576.actonsoftware.com
 a8642.actonsoftware.com
 a8723.com
 a8780.actonservice.com
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a8925.actonsoftware.com
 a8clk.macpaw.com
 a8clk.staff.mynavi.jp
@@ -7227,6 +7230,7 @@ acton.tourismireland.com
 acton.trefis.com
 acton1.avisbudget.com
 actonservice.com
+actonsoftware.com
 actscattydecode.com
 actualdeals.com
 actualites.notretemps.com
@@ -7248,6 +7252,7 @@ ad-brix.com
 ad-cdn.technoratimedia.com
 ad-center.com
 ad-channel.wikawika.xyz
+ad-cloud.jp
 ad-creatives-public.commondatastorage.googleapis.com
 ad-delivery.net
 ad-display.wikawika.xyz
@@ -9413,6 +9418,7 @@ af-web.advertica-cdn.com
 af.delfi.lt
 af.endballbemires.com
 af.shalltry.com
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 afcnuchxgo.com
 afcsps.takecareof.com
 afd.baidu.com
@@ -9436,6 +9442,7 @@ aff2.linksht.online
 affbuzzads.com
 affcpatrk.com
 affec.tv
+affex.org
 affforce.com
 affilbox.cz
 affili.net
@@ -16575,6 +16582,7 @@ cn2.stadiumgoods.com
 cn846.com
 cname-aa.022022.net
 cname.c.shortest-route.com
+cname.ebis.ne.jp
 cname.g.shortest-route.com
 cname.h.shortest-route.com
 cnamecustomer.tt.omtrdc.net
@@ -18790,6 +18798,7 @@ cust44.enginekalendar.b2bmktg.com
 cust49.enginekalendar.b2bmktg.com
 custobar.com
 custodycraveretard.com
+custom.plausible.io
 customad.cnn.com
 customer-account-management-webapp2.gbc.criteo.com
 customer-pages.leanplum.com
@@ -19288,6 +19297,7 @@ data.accounts.t-mobile.com
 data.accountsemea.coca-cola.com
 data.ad-score.com
 data.adlermode.com
+data.adobedc.net
 data.adop.cc
 data.ads.heytapmobi.com
 data.ads.oppomobile.com
@@ -19605,6 +19615,7 @@ ddguhg.wickes.co.uk
 ddioce.wolverine.com
 ddjje.emijay.com
 ddla593ymz72o.cloudfront.net
+ddns.dataunlocker.com
 ddsum.baseball.cbssports.com
 ddzk5l3bd.com
 de-card01.wt-eu02.net
@@ -19653,7 +19664,6 @@ debug.perf.pardot.com
 dec-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 dec-fed.gbc.criteo.com
 dec.vip.gbc.criteo.com
-decenthat.com
 decibelinsight.com
 decibelinsight.net
 decide.mixpanel.com
@@ -26755,6 +26765,7 @@ go.paragonaviationgroup.com
 go.parametasolutions.com
 go.paramount.com
 go.parcelshield.com
+go.pardot.com
 go.pardot.delzelle.be
 go.pardot.porttechnology.org
 go.pardot.santander.co.uk
@@ -29127,6 +29138,7 @@ ice.360yield.com
 ice1.gosportmontagne.com
 icex01.wt-eu02.net
 ichachoakiglop.com
+ichdpdbpv.com
 ici.b2bmktg.com
 iciciprulife.tt.omtrdc.net
 icicisecurities.tt.omtrdc.net
@@ -29286,7 +29298,6 @@ illinoisdepartmentof.tt.omtrdc.net
 illuminainc.tt.omtrdc.net
 illuminatelocks.com
 illustriousoatmeal.com
-ilo134ulih.com
 ilogs.bytefence.com
 iloopmobile.com
 ilotteryillinois.tt.omtrdc.net
@@ -31061,6 +31072,7 @@ ivmwbl.hear.com
 ivstracker.net
 ivwbox.de
 ivykiosk.com
+iwamwxsgnlsa.com
 iwantglobal.actonservice.com
 iwanttodeliver.com
 iworldtivogo.gbc.criteo.com
@@ -31525,6 +31537,7 @@ jwuoxhjuq.com
 jxjttecednvb.com
 jybnuw.mudah.my
 jyhlgpkn.com
+jyjfycnpodkjp.com
 jytrnq.cm-cic.com
 jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
@@ -31533,8 +31546,10 @@ k.da.us.gbc.criteo.com
 k.dnsdelegation.io
 k.et.nytimes.com
 k.iinfo.cz
+k.keyade.com
 k.lj.hp.gbc.criteo.com
 k.logging.admicro.vn
+k.madmetrics.com
 k.zucks.net
 k12.gbc.criteo.com
 k12.tt.omtrdc.net
@@ -36184,6 +36199,7 @@ mixpanel.com
 mizutr.widget.criteo.com
 mjnpya.marktplaats.nl
 mk01.toshiba.semicon-storage.com
+mkejunomqar.com
 mkklcdnv6tempv4.com
 mkkvprwskq.com
 mklar.simplesugarsskincare.com
@@ -47687,6 +47703,7 @@ mlsend.com
 mlsend2.com
 mlvgxzenoiz.com
 mm-cgnews.com
+mm.actionlink.jp
 mm.eulerian.com
 mm.eulerian.eu
 mm.eulerian.fr
@@ -52486,6 +52503,7 @@ ogads-pa.googleapis.com
 ogb2.jardinbio.fr
 ogb2.natessance.com
 oghqvffmnt.com
+oghub.io
 ogkvkuvfy.com
 ogl.primorske.si
 ogs.ants.vn
@@ -56124,6 +56142,7 @@ photocitefr.widget.criteo.com
 photographpan.com
 photorank.me
 photos-vip.gbc.criteo.com
+phoucmiwashook.com
 php.bcava.gbc.criteo.com
 php.trafficfactory.biz
 php.tt.omtrdc.net
@@ -61318,6 +61337,7 @@ sc-analytics.appspot.com
 sc-static.net
 sc.actonservice.com
 sc.adelement.com
+sc.adobedc.net
 sc.citizensbank.tt.omtrdc.net
 sc.cmt.com
 sc.coutts.com
@@ -67703,6 +67723,7 @@ starhubltd.tt.omtrdc.net
 stark.football.cbssports.com
 stark.gbc.criteo.com
 starkuno.com
+starman.fathomdns.com
 starseed.fr
 start.branch.io
 start.cint.com
@@ -68311,6 +68332,7 @@ storeconfig.mistat.intl.xiaomi.com
 storeen.ldmnq.com
 storemx7h9-engine.b2bmktg.com
 stores-counters.wix.com
+storetail.io
 storeus.postaffiliatepro.com
 stories.automatad.com
 stories.cbssports.com
@@ -69730,6 +69752,7 @@ think.vyond.com
 thinkappetitefeud.com
 thinknear.com
 thinktank.omfif.org
+thirdparty.bnc.lt
 thirdrespect.com
 thirstytwig.com
 thisisarray.com
@@ -70541,6 +70564,7 @@ tracking.bcava.gbc.criteo.com
 tracking.bettingexpert.com
 tracking.bloomberg.com
 tracking.bodis.com
+tracking.bp01.net
 tracking.bsu.edu
 tracking.build.com
 tracking.business.comcast.com
@@ -76031,6 +76055,7 @@ yrumdfslwabv.com
 yrvcuiwpcoxjzyhf.partner.net.daraz.com
 ys-log-upload-os.hoyoverse.com
 ys.baseball.cbssports.com
+ysbddgay.com
 yseyxucrhjfi.com
 ysl-parfums.eulerian.net
 ysl3.destinia.ec
